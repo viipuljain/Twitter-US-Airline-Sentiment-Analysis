@@ -1,1 +1,2 @@
-# Twitter-US-Airline-Sentiment-Analysis
+# Twitter-sentiment-analysis
+Twitter US Airline Sentiment Analysis
